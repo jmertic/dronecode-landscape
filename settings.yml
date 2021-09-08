@@ -189,7 +189,7 @@ big_picture:
 test:
   header: Dronecode Landscape
   section: Dronecode Member
-  logo: airbnb-member.svg # pick any logo to put here
+  logo: linaro-limited.svg # pick any logo to put here
 # if you have a common view, create a pre-render to speed the render time up
 prerender:
   # good pre-render to always have; embedable member logo list for a website. Renders to /pages/members
