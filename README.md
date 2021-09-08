@@ -77,15 +77,15 @@ You can install and run locally with the [install directions]. It's not necessar
 Please open an [issue] or, for sensitive information, email info\@cncf.io.
 
 <!--- Update urls and references in this section -->
-[Dependency Status]: https://img.shields.io/david/jmertic/landscape-template.svg?style=flat-square
-[1]: https://david-dm.org/jmertic/landscape-template``
+[Dependency Status]: https://img.shields.io/david/jmertic/dronecode-landscape.svg?style=flat-square
+[1]: https://david-dm.org/jmertic/dronecode-landscape``
 [Netlify Status]: https://api.netlify.com/api/v1/badges/9fe8d885-037d-48ce-8bf9-3bfa54152945/deploy-status
-[2]: https://app.netlify.com/sites/graphql-landscape/deploys
-[ospolandscape.todogroup.org]: https://ospolandscape.todogroup.org
-[PDF]: https://ospolandscape.todogroup.org/images/landscape.pdf
-[PNG]: https://ospolandscape.todogroup.org/images/landscape.png
-[issue]: https://github.com/jmertic/landscape-template/issues/new
-[projects sorted by last update]: https://ospolandscape.todogroup.org/format=card-mode&grouping=no&license=open-source&sort=latest-commit
+[2]: https://app.netlify.com/sites/dronecode-landscape/deploys
+[ospolandscape.todogroup.org]: https://landscape.dronecode.org
+[PDF]: https://landscape.dronecode.org/images/landscape.pdf
+[PNG]: https://landscape.dronecode.org/images/landscape.png
+[issue]: https://github.com/jmertic/dronecode-template/issues/new
+[projects sorted by last update]: https://landscape.dronecode.org/format=card-mode&grouping=no&license=open-source&sort=latest-commit
 <!--- These shouldn't need updated -->
 [Landscape Template Logo]: images/left-logo.svg
 [Current Version]: #current-version
