@@ -1,125 +1,1000 @@
 # THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
-    name: TODO Group Member
+    name: Dronecode Member
     subcategories:
       - subcategory:
-        name: General
+        name: Platinum
+        items: []
+      - subcategory:
+        name: Gold
         items:
           - item:
-            name: Airbnb (member)
-            homepage_url: https://www.airbnb.com
-            logo: airbnb.svg
-            crunchbase: https://www.crunchbase.com/organization/airbnb
+            name: Linaro Limited
+            homepage_url: https://linaro.org/
+            logo: linaro_limited.svg
+            twitter: https://twitter.com/LinaroOrg
+            crunchbase: https://www.crunchbase.com/organization/linaro
             crunchbase_data:
-              name: Airbnb
-              description: Airbnb is an online community marketplace for people to list, discover, and book accommodations through mobile phones or the internet.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: http://airbnb.com
+              name: Linaro
+              description: Linaro™ is the place where engineers from the world's leading technology companies define the future of Linux on ARM.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: http://www.linaro.org
+              city: Cambridge
+              region: Cambridgeshire
+              country: United Kingdom
+              twitter: http://twitter.com/linaroorg
+              linkedin: https://www.linkedin.com/company/1026961
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Software
+            image_data:
+              fileName: linaro-limited.svg
+              hash: UjO6bYyws2IjHwMvNMfTU+OpnZIkOrjT/STBhhA06s0=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-09-08T14:30:27.000Z
+          - item:
+            name: Microsoft Corporation
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            twitter: https://twitter.com/Microsoft
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+            crunchbase_data:
+              name: Microsoft
+              description: Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.microsoft.com
+              city: Redmond
+              region: Washington
+              country: United States
+              twitter: http://twitter.com/Microsoft
+              linkedin: https://www.linkedin.com/company/microsoft
+              acquisitions:
+                - date: '1987-07-30'
+                  acquiree: Forethought
+                  price: 14000000
+                - date: '1991-03-08'
+                  acquiree: Consumers Software
+                - date: '1992-03-25'
+                  acquiree: Fox Software
+                - date: '1994-02-15'
+                  acquiree: SoftImage
+                - date: '1994-09-27'
+                  acquiree: Altamira Software
+                - date: '1994-11-01'
+                  acquiree: NextBase
+                - date: '1994-11-16'
+                  acquiree: One Tree Software Ltd
+                - date: '1995-02-23'
+                  acquiree: RenderMorphics
+                - date: '1995-07-10'
+                  acquiree: Network Managers
+                - date: '1995-10-16'
+                  acquiree: Blue Ribbon SoundWorks
+                - date: '1995-11-06'
+                  acquiree: Netwise
+                - date: '1995-12-12'
+                  acquiree: Bruce Artwick Organization
+                - date: '1996-01-16'
+                  acquiree: Vermeer Technologies
+                - date: '1996-03-12'
+                  acquiree: Colusa Software
+                - date: '1996-04-15'
+                  acquiree: EXOS
+                - date: '1996-04-23'
+                  acquiree: Aspect Software Inc
+                - date: '1996-06-11'
+                  acquiree: eShop
+                - date: '1996-06-17'
+                  acquiree: Electric Gravity
+                - date: '1996-12-10'
+                  acquiree: NetCarta
+                - date: '1997-03-03'
+                  acquiree: Interse
+                - date: '1997-04-06'
+                  acquiree: WebTV Networks
+                - date: '1997-05-07'
+                  acquiree: Dimension X
+                - date: '1997-06-13'
+                  acquiree: Cooper & Peters
+                - date: '1997-06-30'
+                  acquiree: LinkAge Software
+                - date: '1997-08-05'
+                  acquiree: VXtreme
+                - date: '1997-12-31'
+                  acquiree: Hotmail
+                - date: '1997-12-31'
+                  acquiree: Windows Live Hotmail
+                - date: '1998-04-09'
+                  acquiree: Firefly Network
+                - date: '1998-04-28'
+                  acquiree: MESA Group
+                - date: '1998-06-23'
+                  acquiree: Merchant Planet
+                - date: '1998-08-25'
+                  acquiree: Valence Research
+                - date: '1998-08-25'
+                  acquiree: Valence Technology
+                - date: '1998-11-05'
+                  acquiree: linkexchange
+                - date: '1999-01-08'
+                  acquiree: FASA Interactive
+                - date: '1999-03-04'
+                  acquiree: CompareNet
+                - date: '1999-03-28'
+                  acquiree: Numinous Technologies
+                - date: '1999-04-26'
+                  acquiree: Jump Networks
+                - date: '1999-06-07'
+                  acquiree: ShadowFactor Software
+                - date: '1999-06-14'
+                  acquiree: OmniBrowse
+                - date: '1999-07-01'
+                  acquiree: Sendit
+                - date: '1999-07-07'
+                  acquiree: Zoomit
+                - date: '1999-07-21'
+                  acquiree: STNC
+                - date: '1999-07-28'
+                  acquiree: Intrinsa
+                  price: 58900000
+                - date: '1999-09-15'
+                  acquiree: Visio Corporation
+                - date: '1999-09-17'
+                  acquiree: Softway Systems
+                - date: '1999-10-29'
+                  acquiree: Entropic
+                - date: '1999-11-01'
+                  acquiree: Entropic Research Laboratories
+                - date: '2000-02-29'
+                  acquiree: Peach Networks
+                - date: '2000-06-19'
+                  acquiree: Bungie
+                - date: '2000-07-12'
+                  acquiree: NetGames
+                - date: '2000-09-13'
+                  acquiree: MongoMusic
+                  price: 65000000
+                - date: '2000-09-18'
+                  acquiree: Pacific Microsonics
+                - date: '2000-12-05'
+                  acquiree: Digital Anvil
+                - date: '2000-12-21'
+                  acquiree: Great Plains Software
+                - date: '2001-04-30'
+                  acquiree: NCompass Labs
+                - date: '2001-09-13'
+                  acquiree: XDegrees
+                - date: '2002-05-07'
+                  acquiree: Navision
+                  price: 1450000000
+                - date: '2002-09-24'
+                  acquiree: Rare
+                  price: 337000000
+                - date: '2002-10-22'
+                  acquiree: Vicinity Corporation
+                  price: 96000000
+                - date: '2003-02-19'
+                  acquiree: Connectix
+                - date: '2003-03-04'
+                  acquiree: Pelican Security
+                  price: 1000000
+                - date: '2003-04-30'
+                  acquiree: PlaceWare
+                - date: '2003-06-10'
+                  acquiree: RAV Antivirus
+                - date: '2004-04-26'
+                  acquiree: ActiveViews
+                - date: '2004-07-17'
+                  acquiree: Lookout Software
+                - date: '2004-12-16'
+                  acquiree: GIANT Company Software
+                - date: '2005-02-08'
+                  acquiree: Sybari
+                - date: '2005-03-10'
+                  acquiree: Groove Networks
+                - date: '2005-05-11'
+                  acquiree: MessageCast
+                - date: '2005-07-20'
+                  acquiree: Frontbridge Technologies
+                - date: '2005-08-30'
+                  acquiree: Teleo
+                - date: '2005-09-19'
+                  acquiree: Alacris
+                - date: '2005-10-06'
+                  acquiree: Unveil Technologies
+                - date: '2005-11-02'
+                  acquiree: Media-Streams.com
+                - date: '2005-11-03'
+                  acquiree: FolderShare
+                - date: '2005-11-17'
+                  acquiree: 5th Finger
+                - date: '2006-01-28'
+                  acquiree: SeaDragon Software
+                - date: '2006-02-13'
+                  acquiree: Motion Bridge
+                - date: '2006-03-07'
+                  acquiree: Apptimum
+                - date: '2006-03-07'
+                  acquiree: Onfolio
+                - date: '2006-04-03'
+                  acquiree: ProClarity
+                - date: '2006-04-06'
+                  acquiree: Lionhead Studios
+                - date: '2006-04-26'
+                  acquiree: AssetMetrix Corporation
+                - date: '2006-05-01'
+                  acquiree: Massive
+                  price: 200000000
+                - date: '2006-05-04'
+                  acquiree: DeepMetrix
+                - date: '2006-05-04'
+                  acquiree: Vexcel
+                - date: '2006-05-18'
+                  acquiree: Whale Communications
+                  price: 75000000
+                - date: '2006-06-27'
+                  acquiree: iView Multimedia
+                - date: '2006-07-17'
+                  acquiree: Softricity
+                - date: '2006-07-18'
+                  acquiree: Winternals
+                - date: '2006-07-26'
+                  acquiree: Azyxxi
+                - date: '2006-09-26'
+                  acquiree: Gteko
+                - date: '2006-10-02'
+                  acquiree: DesktopStandard
+                - date: '2006-10-12'
+                  acquiree: Colloquis
+                - date: '2007-02-26'
+                  acquiree: Medstory
+                - date: '2007-03-14'
+                  acquiree: Tellme
+                  price: 800000000
+                - date: '2007-03-14'
+                  acquiree: Tellme
+                  price: 800000000
+                - date: '2007-03-28'
+                  acquiree: devBiz Business Solutions
+                - date: '2007-05-03'
+                  acquiree: Screen Tonic
+                - date: '2007-05-18'
+                  acquiree: aQuantive
+                  price: 6400000000
+                - date: '2007-06-05'
+                  acquiree: Engyro
+                - date: '2007-06-07'
+                  acquiree: Stratature
+                - date: '2007-07-26'
+                  acquiree: AdECN
+                - date: '2007-08-29'
+                  acquiree: Parlano
+                - date: '2007-10-29'
+                  acquiree: Global Care Solutions
+                - date: '2007-11-15'
+                  acquiree: Musiwave
+                  price: 46000000
+                - date: '2007-11-30'
+                  acquiree: WebFives
+                - date: '2007-12-12'
+                  acquiree: MultiMap
+                - date: '2008-01-08'
+                  acquiree: Fast Search & Transfer
+                - date: '2008-01-21'
+                  acquiree: Calista Technologies
+                - date: '2008-02-07'
+                  acquiree: Caligari Corporation
+                - date: '2008-02-11'
+                  acquiree: Danger
+                  price: 500000000
+                - date: '2008-02-27'
+                  acquiree: YaData
+                - date: '2008-03-08'
+                  acquiree: Credentica
+                - date: '2008-03-12'
+                  acquiree: Kidaro
+                  price: 90000000
+                - date: '2008-03-14'
+                  acquiree: 90 Degree Software
+                - date: '2008-03-14'
+                  acquiree: Rapt
+                - date: '2008-03-20'
+                  acquiree: Komoku
+                - date: '2008-04-09'
+                  acquiree: Farecast
+                  price: 115000000
+                - date: '2008-06-18'
+                  acquiree: Navic Networks
+                - date: '2008-06-18'
+                  acquiree: Navic Systems
+                - date: '2008-06-26'
+                  acquiree: MobiComp
+                - date: '2008-07-01'
+                  acquiree: Powerset
+                  price: 100000000
+                - date: '2008-07-14'
+                  acquiree: Zoomix
+                - date: '2008-07-25'
+                  acquiree: DATAllegro
+                - date: '2008-08-29'
+                  acquiree: Greenfield Online
+                  price: 486000000
+                - date: '2008-08-31'
+                  acquiree: Ciao AG
+                - date: '2009-05-07'
+                  acquiree: BigPark
+                - date: '2009-06-01'
+                  acquiree: Rosetta Biosoftware
+                - date: '2009-06-28'
+                  acquiree: ClickStream Technologies
+                - date: '2009-09-22'
+                  acquiree: Interactive Supercomputing
+                - date: '2009-12-10'
+                  acquiree: Sentillion
+                - date: '2009-12-11'
+                  acquiree: Opalis Software
+                - date: '2010-10-06'
+                  acquiree: AVIcode
+                - date: '2010-10-29'
+                  acquiree: Canesta
+                - date: '2011-05-10'
+                  acquiree: Skype
+                - date: '2011-06-08'
+                  acquiree: Prodiance Corporation
+                - date: '2011-10-12'
+                  acquiree: Twisted Pixel Games
+                - date: '2011-11-23'
+                  acquiree: VideoSurf
+                  price: 100000000
+                - date: '2012-06-25'
+                  acquiree: Yammer
+                  price: 1200000000
+                - date: '2012-07-09'
+                  acquiree: Perceptive Pixel
+                - date: '2012-10-04'
+                  acquiree: PhoneFactor
+                - date: '2012-10-16'
+                  acquiree: StorSimple
+                - date: '2012-10-17'
+                  acquiree: MarketingPilot
+                - date: '2012-12-28'
+                  acquiree: R2 Studios
+                - date: '2013-01-02'
+                  acquiree: id8 Group R2 Studios
+                - date: '2013-02-04'
+                  acquiree: Pando Networks
+                - date: '2013-03-04'
+                  acquiree: MetricsHub
+                - date: '2013-03-19'
+                  acquiree: Netbreeze
+                - date: '2013-06-03'
+                  acquiree: InRelease
+                - date: '2013-09-03'
+                  acquiree: Nokia - Devices & Services Business
+                  price: 7166381241
+                - date: '2013-10-04'
+                  acquiree: Apiphany
+                - date: '2014-01-06'
+                  acquiree: Parature
+                  price: 100000000
+                - date: '2014-04-30'
+                  acquiree: GreenButton
+                - date: '2014-05-28'
+                  acquiree: Capptain
+                - date: '2014-07-03'
+                  acquiree: SyntaxTree
+                - date: '2014-07-11'
+                  acquiree: InMage Systems
+                - date: '2014-09-15'
+                  acquiree: Mojang Studios
+                  price: 2500000000
+                - date: '2014-10-08'
+                  acquiree: Equivio
+                  price: 200000000
+                - date: '2014-11-13'
+                  acquiree: Aorato
+                  price: 200000000
+                - date: '2014-12-01'
+                  acquiree: Acompli
+                  price: 200000000
+                - date: '2014-12-11'
+                  acquiree: Bit Stadium GmbH
+                - date: '2014-12-11'
+                  acquiree: HockeyApp
+                - date: '2015-01-23'
+                  acquiree: Revolution Analytics
+                - date: '2015-02-04'
+                  acquiree: Sunrise
+                  price: 100000000
+                - date: '2015-02-12'
+                  acquiree: N-Trig
+                - date: '2015-03-26'
+                  acquiree: LiveLoop
+                - date: '2015-04-14'
+                  acquiree: Datazen Software
+                - date: '2015-06-02'
+                  acquiree: Wunderlist
+                  price: 150000000
+                - date: '2015-06-10'
+                  acquiree: BlueStripe
+                - date: '2015-07-16'
+                  acquiree: FieldOne Systems
+                - date: '2015-07-19'
+                  acquiree: Adallom
+                  price: 320000000
+                - date: '2015-08-03'
+                  acquiree: FantasySalesTeam
+                - date: '2015-09-10'
+                  acquiree: Double Labs
+                - date: '2015-09-11'
+                  acquiree: VoloMetrix
+                  price: 250000000
+                - date: '2015-09-14'
+                  acquiree: Echo Locker
+                - date: '2015-09-30'
+                  acquiree: Adxstudio
+                - date: '2015-10-02'
+                  acquiree: Havok
+                - date: '2015-11-05'
+                  acquiree: Mobile Data Labs
+                - date: '2015-11-09'
+                  acquiree: Secure Islands Technologies
+                  price: 77500000
+                - date: '2015-12-18'
+                  acquiree: Metanautix
+                - date: '2015-12-21'
+                  acquiree: Talko
+                - date: '2016-01-13'
+                  acquiree: Event Zero
+                - date: '2016-01-19'
+                  acquiree: MinecraftEdu
+                - date: '2016-02-02'
+                  acquiree: SwiftKey
+                  price: 250000000
+                - date: '2016-02-09'
+                  acquiree: Groove (dba Zikera)
+                - date: '2016-02-24'
+                  acquiree: Xamarin
+                - date: '2016-05-03'
+                  acquiree: Solair
+                - date: '2016-06-13'
+                  acquiree: LinkedIn
+                  price: 26200000000
+                - date: '2016-06-16'
+                  acquiree: Wand Labs
+                - date: '2016-06-28'
+                  acquiree: Code Connect
+                - date: '2016-08-11'
+                  acquiree: Mixer
+                - date: '2016-08-22'
+                  acquiree: Genee
+                - date: '2017-01-13'
+                  acquiree: Maluuba
+                - date: '2017-01-17'
+                  acquiree: Donya Labs
+                - date: '2017-04-01'
+                  acquiree: Open Build Service
+                - date: '2017-04-10'
+                  acquiree: Deis.com
+                - date: '2017-04-18'
+                  acquiree: Intentional Software
+                - date: '2017-05-24'
+                  acquiree: Hexadite
+                  price: 100000000
+                - date: '2017-06-28'
+                  acquiree: Cloudyn
+                  price: 60000000
+                - date: '2017-08-15'
+                  acquiree: Cycle Computing
+                - date: '2017-10-04'
+                  acquiree: AltspaceVR
+                - date: '2017-11-07'
+                  acquiree: Swing Technologies
+                - date: '2018-01-03'
+                  acquiree: Avere Systems
+                - date: '2018-01-29'
+                  acquiree: PlayFab
+                - date: '2018-02-13'
+                  acquiree: Chalkup
+                - date: '2018-05-20'
+                  acquiree: Semantic Machines
+                - date: '2018-06-03'
+                  acquiree: GitHub
+                  price: 7500000000
+                - date: '2018-06-10'
+                  acquiree: Compulsion Games
+                - date: '2018-06-10'
+                  acquiree: Ninja Theory
+                - date: '2018-06-10'
+                  acquiree: Playground Games
+                - date: '2018-06-10'
+                  acquiree: Undead Labs
+                - date: '2018-06-18'
+                  acquiree: FlipGrid
+                - date: '2018-06-20'
+                  acquiree: Bonsai
+                - date: '2018-09-13'
+                  acquiree: Lobe
+                - date: '2018-11-10'
+                  acquiree: Obsidian Entertainment
+                - date: '2018-11-10'
+                  acquiree: inXile Entertainment
+                - date: '2018-11-14'
+                  acquiree: XOXCO
+                - date: '2018-11-19'
+                  acquiree: FSLogix
+                - date: '2019-01-24'
+                  acquiree: Citus Data
+                - date: '2019-02-04'
+                  acquiree: DataSense
+                - date: '2019-04-18'
+                  acquiree: Express Logic
+                - date: '2019-07-29'
+                  acquiree: BlueTalon
+                - date: '2019-08-05'
+                  acquiree: PromoteIQ
+                - date: '2019-08-19'
+                  acquiree: jClarity
+                - date: '2019-09-04'
+                  acquiree: Movere
+                - date: '2019-10-21'
+                  acquiree: Mover
+                - date: '2020-03-26'
+                  acquiree: Affirmed Networks
+                  price: 1350000000
+                - date: '2020-05-05'
+                  acquiree: CyberX
+                  price: 165000000
+                - date: '2020-05-14'
+                  acquiree: Metaswitch Networks
+                - date: '2020-05-19'
+                  acquiree: Softomotive
+                - date: '2020-06-18'
+                  acquiree: ADRM Software
+                - date: '2020-07-08'
+                  acquiree: Orions Systems
+                - date: '2020-09-21'
+                  acquiree: ZeniMax
+                  price: 7500000000
+                - date: '2020-12-02'
+                  acquiree: Smash.gg
+                - date: '2021-03-16'
+                  acquiree: The Marsden Group
+                - date: '2021-04-12'
+                  acquiree: Nuance Communications
+                  price: 19700000000
+                - date: '2021-04-29'
+                  acquiree: Kinvolk
+                - date: '2021-06-02'
+                  acquiree: ReFirm Labs
+                - date: '2021-07-11'
+                  acquiree: RiskIQ
+                  price: 500000000
+                - date: '2021-07-21'
+                  acquiree: CloudKnox Security
+                - date: '2021-07-28'
+                  acquiree: Suplari
+                - date: '2021-08-10'
+                  acquiree: Peer5
+                - date: '2021-09-07'
+                  acquiree: Clipchamp
+              parents:
+                - https://www.crunchbase.com/organization/never-stop-marketing
+              ticker: MSFT
+              funding: 1000000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Developer Tools
+                - Enterprise Software
+                - Operating Systems
+                - Software
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 2243921444864
+              effective_ticker: MSFT
+            image_data:
+              fileName: microsoft-corporation.svg
+              hash: 8fFf3tCTHX+5TsBQWT3+hZi81xYUBqdd3pZCFAf3LtQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-09-08T00:04:10.000Z
+          - item:
+            name: NXP Semiconductors Netherlands B.V.
+            homepage_url: https://nxp.com/
+            logo: nxp_semiconductors_netherlands_bv.svg
+            twitter: https://twitter.com/NXP
+            crunchbase: https://www.crunchbase.com/organization/nxp-semiconductors
+            crunchbase_data:
+              name: NXP Semiconductors
+              description: NXP Semiconductors produces secure connectivity solutions for embedded applications
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.nxp.com
+              city: Eindhoven
+              region: Noord-Brabant
+              country: The Netherlands
+              twitter: http://twitter.com/NXP
+              linkedin: https://www.linkedin.com/company/nxp-semiconductors
+              acquisitions:
+                - date: '1999-05-04'
+                  acquiree: VLSI Technology
+                  price: 1000000000
+                - date: '2007-12-21'
+                  acquiree: GloNav
+                - date: '2008-08-11'
+                  acquiree: Conexant Systems
+                  price: 110000000
+                - date: '2010-07-26'
+                  acquiree: Jennic
+                - date: '2012-04-04'
+                  acquiree: Catena Holding
+                - date: '2013-05-01'
+                  acquiree: Code Red Technologies
+                - date: '2014-11-24'
+                  acquiree: Quintic
+                - date: '2015-03-02'
+                  acquiree: Freescale Semiconductor
+                  price: 12000000000
+                - date: '2015-03-10'
+                  acquiree: Athena Smartcard
+                - date: '2018-09-03'
+                  acquiree: OmniPHY Semiconductor
+              parents: []
+              ticker: NXPI
+              funding: 596250
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Automotive
+                - Energy Efficiency
+                - Manufacturing
+                - Semiconductor
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 55439732736
+              effective_ticker: NXPI
+            image_data:
+              fileName: nxp-semiconductors-netherlands-b-v.svg
+              hash: yHSbdiClMV43KiGlJQ/w+C1wp13W6OXtvtDR/9jyQyY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-09-08T14:02:28.000Z
+      - subcategory:
+        name: Silver
+        items:
+          - item:
+            name: 3D Robotics
+            homepage_url: https://3dr.com/
+            logo: 3d_robotics.svg
+            twitter: https://twitter.com/3DRobotics
+            crunchbase: https://www.crunchbase.com/organization/3d-robotics
+            crunchbase_data:
+              name: 3D Robotics
+              description: 3DR makes advanced drone technology easily accessible to the construction, mining, and surveying industries for use in data analysis.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://3dr.com/
+              city: Berkeley
+              region: California
+              country: United States
+              twitter: http://twitter.com/3DRobotics
+              linkedin: https://www.linkedin.com/company/3d-robotics
+              acquisitions:
+                - date: '2014-07-30'
+                  acquiree: Sifteo
+              parents: []
+              funding: 178775000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Drones
+                - Information Technology
+                - Robotics
+              kind: funding
+            image_data:
+              fileName: 3-d-robotics.svg
+              hash: YcionFq2l3dhJsc+BZaJxSgOp1Uv7dwMOphUD+3nRFE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-03-19T03:54:11.000Z
+          - item:
+            name: AirMap,Inc.
+            homepage_url: https://airmap.com/
+            logo: airmapinc.svg
+            twitter: https://twitter.com/AirMapIO
+            crunchbase: https://www.crunchbase.com/organization/noflyzone
+            crunchbase_data:
+              name: AirMap
+              description: AirMap operates as an airspace services platform for unmanned aircraft.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: https://www.airmap.com
+              city: Santa Monica
+              region: California
+              country: United States
+              twitter: https://twitter.com/airmapIO
+              linkedin: https://www.linkedin.com/company/noflyzone
+              acquisitions:
+                - date: '2019-09-23'
+                  acquiree: Hangar Technology
+              parents: []
+              funding: 78657664
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Aerospace
+                - Autonomous Vehicles
+                - Big Data
+                - Drones
+                - Navigation
+                - Robotics
+              kind: funding
+            image_data:
+              fileName: air-map-inc.svg
+              hash: oMC8ISmKkySgfVFKNrrRofYm6e85q0epsdcfn80pzHU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-07-30T23:09:24.000Z
+          - item:
+            name: DroneDeploy, Inc
+            homepage_url: https://dronedeploy.com/
+            logo: dronedeploy_inc.svg
+            twitter: https://twitter.com/DroneDeploy
+            crunchbase: https://www.crunchbase.com/organization/dronedeploy
+            crunchbase_data:
+              name: DroneDeploy
+              description: DroneDeploy is a cloud-based drone mapping and analytics platform to help businesses get things done.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://www.dronedeploy.com
               city: San Francisco
               region: California
               country: United States
-              twitter: http://twitter.com/airbnb
-              linkedin: https://www.linkedin.com/company/airbnb
+              twitter: http://twitter.com/DroneDeploy
+              linkedin: https://www.linkedin.com/company/dronedeploy
               acquisitions:
-                - date: '2011-06-01'
-                  acquiree: Accoleo
-                - date: '2012-03-20'
-                  acquiree: Crashpadder
-                - date: '2012-07-01'
-                  acquiree: NabeWise
-                - date: '2012-07-24'
-                  acquiree: DailyBooth
-                - date: '2012-10-03'
-                  acquiree: Fondu
-                - date: '2012-12-01'
-                  acquiree: Localmind
-                - date: '2014-12-02'
-                  acquiree: Pencil Labs
-                - date: '2015-09-11'
-                  acquiree: Vamo
-                - date: '2015-09-29'
-                  acquiree: Lapka
-                - date: '2016-01-01'
-                  acquiree: Bold Financial Technologies
-                - date: '2016-04-13'
-                  acquiree: ChangeCoin
-                - date: '2016-09-19'
-                  acquiree: Trip4real
-                - date: '2017-02-10'
-                  acquiree: Luxury Retreats
-                  price: 200000000
-                - date: '2017-02-23'
-                  acquiree: Tilt
-                - date: '2017-05-02'
-                  acquiree: Deco Software
-                - date: '2017-06-16'
-                  acquiree: Trooly
-                - date: '2017-11-16'
-                  acquiree: Accomable
-                - date: '2017-11-16'
-                  acquiree: AdBasis
-                - date: '2018-12-11'
-                  acquiree: Luckey
-                - date: '2019-01-25'
-                  acquiree: Gaest.com
-                - date: '2019-03-07'
-                  acquiree: HotelTonight
-                - date: '2019-08-05'
-                  acquiree: Urbandoor
+                - date: '2021-08-11'
+                  acquiree: Rocos
               parents: []
-              ticker: ABNB
-              funding: 5950282100
-              stockExchange: nasdaq
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 120128872448
-              effective_ticker: ABNB
-            image_data:
-              fileName: airbnb-member.svg
-              hash: 4F20c1Q9BUtSvVwgWbsEFrWSxXHpGqckq0ZlnqrzU9w=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-02-17T23:51:06.000Z
-  - category:
-    name: OSPO Adopter
-    subcategories:
-      - subcategory:
-        name: OSPO Adopter
-        items:
-          - item:
-            name: 1stdibs (adopter)
-            homepage_url: https://www.1stdibs.com
-            logo: 1stdibs.svg
-            crunchbase: https://www.crunchbase.com/organization/1stdibs
-            crunchbase_data:
-              name: 1stdibs
-              description: 1stdibs is an internet company that offers a marketplace for rare and desirable objects in furniture, fashion, fine art, and jewelry.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: http://www.1stdibs.com
-              city: New York
-              region: New York
-              country: United States
-              twitter: http://twitter.com/1stdibs
-              linkedin: https://www.linkedin.com/company/1stdibs-com/
-              acquisitions:
-                - date: '2012-09-18'
-                  acquiree: Online Galleries
-                - date: '2019-05-07'
-                  acquiree: Design Manager
-              parents: []
-              funding: 253000000
+              funding: 142552368
               stockExchange: null
+              company_type: For Profit
+              industries:
+                - Drones
+                - Internet of Things
+                - Mapping Services
+                - Robotics
+                - Software
               kind: funding
             image_data:
-              fileName: 1stdibs-adopter.svg
-              hash: 6lR4gG6HBPVIJqArifzYTnMLY/C8fall8FkRRYYyDGw=
+              fileName: drone-deploy-inc.svg
+              hash: +yv2oFFHhFX5l/PCJpMpV09zOCxFXrVzxkHn7Vi3Wyk=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-02-22T02:05:02.000Z
+              latest_tweet_date: 2021-09-07T22:09:32.000Z
+          - item:
+            name: FLARM Technology Ltd
+            homepage_url: https://flarm.com/
+            logo: flarm_technology_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/flarm-technology-ltd
+            crunchbase_data:
+              name: FLARM Technology Ltd
+              description: The most used aircraft detection sensor in the world.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.flarm.com
+              city: Cham
+              region: Zug
+              country: Switzerland
+              twitter: null
+              linkedin: https://www.linkedin.com/company/744139/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Aerospace
+                - Drones
+                - Electronics
+                - Hardware
+                - Robotics
+            image_data:
+              fileName: flarm-technology-ltd.svg
+              hash: 5kna+lkR+XD3x5h466xWwYDZqTYWinvDL/zY+6ZZu5g=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Freefly Systems
+            homepage_url: https://freeflysystems.com/
+            logo: freefly_systems.svg
+            twitter: https://twitter.com/freeflysystems
+            crunchbase: https://www.crunchbase.com/organization/freefly-systems
+            crunchbase_data:
+              name: Freefly Systems
+              description: Freefly Systems develops MōVI camera gimbals and aerial UAV solutions for motion, picture & video.
+              num_employees_min: 101
+              num_employees_max: 250
+              homepage: http://freeflysystems.com/
+              city: Woodinville
+              region: Washington
+              country: United States
+              twitter: https://twitter.com/freeflysystems
+              linkedin: https://www.linkedin.com/company/freefly
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Aerospace
+                - Robotics
+                - Video
+            image_data:
+              fileName: freefly-systems.svg
+              hash: 7WyxnuhXl1efwK4bnoMV3fS8uF98Ld02MkWwBmZSjYI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-08-25T04:30:05.000Z
+          - item:
+            name: Gumstix, Inc.
+            homepage_url: https://gumstix.com/
+            logo: gumstix_inc.svg
+            twitter: https://twitter.com/gumstix
+            crunchbase: https://www.crunchbase.com/organization/gumstix
+            crunchbase_data:
+              name: Gumstix
+              description: Gumstix pioneered the concept of an extremely small computer-on-module with a full implementation of Linux.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.gumstix.com
+              city: Portola Valley
+              region: California
+              country: United States
+              twitter: http://twitter.com/gumstix
+              linkedin: https://www.linkedin.com/company/gumstix-inc.
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Computer
+                - Information Services
+                - Information Technology
+            image_data:
+              fileName: gumstix-inc.svg
+              hash: MTBtvtKUTKrtsj9UrcuETcgnzYCxn7P41MyUH+sbG6s=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-07-31T00:00:53.000Z
+          - item:
+            name: UVify Inc.
+            homepage_url: https://uvify.com/
+            logo: uvify_inc.svg
+            twitter: https://twitter.com/UVify
+            crunchbase: https://www.crunchbase.com/organization/uvify
+            crunchbase_data:
+              name: Uvify
+              description: UVify is a team with strong background in engineering and design for building autonomous drone for everyone.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: http://www.uvify.com/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/uvify
+              linkedin: https://www.linkedin.com/company/10836673
+              acquisitions: []
+              parents: []
+              funding: 4250000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - 3D Technology
+                - Aerospace
+                - Drones
+                - Robotics
+              kind: funding
+            image_data:
+              fileName: u-vify-inc.svg
+              hash: cSkBWg0eReNnLKD6o67meve5ZQiPJ6ZMe2uSwDdQuig=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-01-22T11:28:39.000Z
+          - item:
+            name: Wingtra AG
+            homepage_url: https://wingtra.com/
+            logo: wingtra_ag.svg
+            twitter: https://twitter.com/Wingtra
+            crunchbase: https://www.crunchbase.com/organization/wingtra
+            crunchbase_data:
+              name: Wingtra
+              description: Wingtra provides professional VTOL drone for mapping and surveying.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://wingtra.com
+              city: Zurich
+              region: Zurich
+              country: Switzerland
+              twitter: https://twitter.com/wingtra
+              linkedin: https://www.linkedin.com/company/wingtra
+              acquisitions: []
+              parents: []
+              funding: 18981447
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Aerospace
+                - Drone Management
+                - Drones
+                - Manufacturing
+                - Robotics
+              kind: funding
+            image_data:
+              fileName: wingtra-ag.svg
+              hash: H6LRRsl3KR4pnsOnA5IxkV6oFJtUIAqlXGaGFTpVkYw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-09-08T14:27:32.000Z
+          - item:
+            name: Yuneec, Advanced Technology Labs AG
+            homepage_url: https://us.yuneec.com/
+            logo: yuneec_advanced_technology_labs_ag.svg
+            twitter: https://twitter.com/YuneecAviation
+            crunchbase: https://www.crunchbase.com/organization/yuneec-apv
+            crunchbase_data:
+              name: Yuneec
+              description: Yuneec is a multirotor drones and UAV technology company.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://us.yuneec.com
+              city: Kowloon City
+              region: Kowloon
+              country: Hong Kong
+              twitter: https://twitter.com/YuneecAviation
+              linkedin: https://www.linkedin.com/company/yuneec-international-co-ltd/
+              acquisitions: []
+              parents: []
+              funding: 60000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Drones
+                - Electronics
+                - Manufacturing
+              kind: funding
+            image_data:
+              fileName: yuneec-advanced-technology-labs-ag.svg
+              hash: byZXTuA2iD1c0XMcBUtHTWnUmaDAsC8OHH2sF6ZOSU8=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-15T07:01:01.000Z

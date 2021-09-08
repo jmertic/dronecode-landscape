@@ -1,1 +1,84 @@
 landscape:
+  - category:
+    name: Dronecode Member
+    subcategories:
+      - subcategory:
+        name: Platinum
+        items: []
+      - subcategory:
+        name: Gold
+        items:
+          - item:
+            name: Linaro Limited
+            homepage_url: https://linaro.org/
+            logo: linaro_limited.svg
+            twitter: https://twitter.com/LinaroOrg
+            crunchbase: https://www.crunchbase.com/organization/linaro
+          - item:
+            name: Microsoft Corporation
+            homepage_url: https://microsoft.com/
+            logo: microsoft_corporation.svg
+            twitter: https://twitter.com/Microsoft
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: NXP Semiconductors Netherlands B.V.
+            homepage_url: https://nxp.com/
+            logo: nxp_semiconductors_netherlands_bv.svg
+            twitter: https://twitter.com/NXP
+            crunchbase: https://www.crunchbase.com/organization/nxp-semiconductors
+      - subcategory:
+        name: Silver
+        items:
+          - item:
+            name: 3D Robotics
+            homepage_url: https://3dr.com/
+            logo: 3d_robotics.svg
+            twitter: https://twitter.com/3DRobotics
+            crunchbase: https://www.crunchbase.com/organization/3d-robotics
+          - item:
+            name: AirMap,Inc.
+            homepage_url: https://airmap.com/
+            logo: airmapinc.svg
+            twitter: https://twitter.com/AirMapIO
+            crunchbase: https://www.crunchbase.com/organization/noflyzone
+          - item:
+            name: DroneDeploy, Inc
+            homepage_url: https://dronedeploy.com/
+            logo: dronedeploy_inc.svg
+            twitter: https://twitter.com/DroneDeploy
+            crunchbase: https://www.crunchbase.com/organization/dronedeploy
+          - item:
+            name: FLARM Technology Ltd
+            homepage_url: https://flarm.com/
+            logo: flarm_technology_ltd.svg
+            crunchbase: https://www.crunchbase.com/organization/flarm-technology-ltd
+          - item:
+            name: Freefly Systems
+            homepage_url: https://freeflysystems.com/
+            logo: freefly_systems.svg
+            twitter: https://twitter.com/freeflysystems
+            crunchbase: https://www.crunchbase.com/organization/freefly-systems
+          - item:
+            name: Gumstix, Inc.
+            homepage_url: https://gumstix.com/
+            logo: gumstix_inc.svg
+            twitter: https://twitter.com/gumstix
+            crunchbase: https://www.crunchbase.com/organization/gumstix
+          - item:
+            name: UVify Inc.
+            homepage_url: https://uvify.com/
+            logo: uvify_inc.svg
+            twitter: https://twitter.com/UVify
+            crunchbase: https://www.crunchbase.com/organization/uvify
+          - item:
+            name: Wingtra AG
+            homepage_url: https://wingtra.com/
+            logo: wingtra_ag.svg
+            twitter: https://twitter.com/Wingtra
+            crunchbase: https://www.crunchbase.com/organization/wingtra
+          - item:
+            name: Yuneec, Advanced Technology Labs AG
+            homepage_url: https://us.yuneec.com/
+            logo: yuneec_advanced_technology_labs_ag.svg
+            twitter: https://twitter.com/YuneecAviation
+            crunchbase: https://www.crunchbase.com/organization/yuneec-apv
