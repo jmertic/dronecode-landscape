@@ -43,6 +43,7 @@ global:
   flags:
     hide_license_for_categories:
       - Dronecode Member
+  skip_funding: true
 # Data for the twitter card
 twitter:
   search: landscape.dronecode.org
